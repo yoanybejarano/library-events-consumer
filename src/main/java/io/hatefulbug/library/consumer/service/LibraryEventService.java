@@ -4,7 +4,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.hatefulbug.library.consumer.entity.Book;
 import io.hatefulbug.library.consumer.entity.LibraryEvent;
-import io.hatefulbug.library.consumer.entity.LibraryEventType;
 import io.hatefulbug.library.consumer.repository.BookRepository;
 import io.hatefulbug.library.consumer.repository.LibraryEventRepository;
 import lombok.extern.slf4j.Slf4j;
